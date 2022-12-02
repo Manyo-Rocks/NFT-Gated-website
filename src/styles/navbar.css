@@ -1,0 +1,67 @@
+header{
+    padding: 2rem 4rem 1.5rem 4rem;
+    color: #fff;
+}
+
+#nav-logo{
+    width: 37%;
+}
+
+.nav-section{
+    display: flex;
+    gap: 3rem;
+}
+
+.nav2{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.nav2 a{
+    color: #fff;
+}
+
+.nav2 input[type=text]{
+    width: 36%;
+    padding-left: 40px;
+    padding-right: 30px;
+    background-color: #EBEAEB;
+    border: none;
+    border-radius: 30px;
+    /* background-image: url('/IMAGES/search-line.png'); */
+    background-position: 10px ;
+    background-repeat: no-repeat;
+    color: #000;
+}
+
+/* .nav2 input[type=text]:focus {
+    /* border:10px solid #F4B40D; */
+
+
+#nav-btn{
+    padding: 5px 20px;
+    background-color: transparent;
+    border: 2px solid #F4B40D;
+    border-radius: 10px;
+    color: #fff;
+    margin: 0 0 0 -70px;
+}
+
+#nav-btn:hover{
+    border: 2px solid #fff;
+}
+
+#nav-middle{
+    line-height: 50px;
+}
+
+#nav-middle:hover{
+    color: #F4B40D;
+}
+
+#nav-middle:active{
+    border-bottom:1px solid #F4B40D;
+}
+
+/* ************** END OF HEADER STYLING ********************/
