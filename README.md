@@ -1,36 +1,27 @@
-## Getting Started
+Web3Ladies-Team-Stark
+For our Web3ladies final project, We were asked to build an NFT gated social board.
 
-Create a project using this example:
+Welcome! 👋 Thanks for checking out our Project.
 
-```bash
-npx thirdweb create --template cra-javascript-starter
-```
+The challenge
+An NFT gated social board
+A user should be able to make posts and specify the contract address/addresses of the NFT that will be used for the gating.
+Only users with an NFT/NFTs should be able to view posts based on the NFTs the author specified.
+An interface that would show posts to users depending on if they hold an NFT. Example: If you hold a Bored Ape NFT you should be able to view a post
+Screenshot
+https://github.com/
 
-You can start editing the page by modifying `src/index.js`. The page auto-updates as you edit the file.
+Links
+Live Site URL:
+Contributors
+Team members:
 
-On `src/index.js`, you'll find our `ThirdwebProvider` wrapping your app, this is necessary for our [hooks](https://portal.thirdweb.com/react) and
-[UI Components](https://portal.thirdweb.com/ui-components) to work.
-
-### Deploy to IPFS
-
-Deploy a copy of your application to IPFS using the following command:
-
-```bash
-yarn deploy
-```
-
-## Learn More
-
-To learn more about thirdweb, React and CRA, take a look at the following resources:
-
-- [thirdweb React Documentation](https://docs.thirdweb.com/react) - learn about our React SDK.
-- [thirdweb TypeScript Documentation](https://docs.thirdweb.com/react) - learn about our JavaScript/TypeScript SDK.
-- [thirdweb Portal](https://docs.thirdweb.com/react) - check our guides and development resources.
-- [Create React App Documentation](https://facebook.github.io/create-react-app/docs/getting-started) - learn about CRA features.
-- [React documentation](https://reactjs.org/) - learn React.
-
-You can check out [the thirdweb GitHub organization](https://github.com/thirdweb-dev) - your feedback and contributions are welcome!
-
-## Join our Discord!
-
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+Github - - Product Designer
+Github - - Product Designer
+Github - Iwema Favour - Frontend Developer (Web2)
+Github - Ezeliora Godsfavour .O. - Frontend Developer (Web2)
+Github - -Manyo-Rocks - (web3)
+Linkedin - Precious Austine-Ushie, "MD" - Product Manager
+Linkedin - Toyibah Moradeke Badmus - Product Manager
+Acknowledgments
+I want to thank my team members for a work well done, our teachers, the organizers of Web3ladies program, the coordinators and God.
