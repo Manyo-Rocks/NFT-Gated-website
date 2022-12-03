@@ -1,4 +1,4 @@
-import React from"react"
+import React, {useState} from"react"
 import "../styles/navbar.css"
 import logo1 from "../images/logo1.png"
 function NavBar(){
