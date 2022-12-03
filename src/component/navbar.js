@@ -17,7 +17,7 @@ function NavBar(){
                  placeholder=" Search items ,articles , latest  project,resources"/>
                 <a href="#instagram-activeTask" id="nav-middle">Home</a>
                 <a href="#-activeTask" id="nav-middle">Resources</a>
-                <a href="./connect1.html" id="nav-middle">Connect wallet</a>
+                
                 <a href="Login"></a>
                 <button id="nav-btn"><a href="./signup.html">Sign up</a></button>
             </div>
